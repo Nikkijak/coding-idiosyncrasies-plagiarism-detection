@@ -1,0 +1,2 @@
+# Lexical tokenization
+  Pygments>=2.15
