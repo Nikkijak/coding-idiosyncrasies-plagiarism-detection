@@ -5,9 +5,8 @@ import unittest
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
-from lex_tokenizer import tokenize, toText
-from winnowing import sha1_hash, kgrams, min_index, fingerprints, hash_list, process_text, compare_fingerprints
-
+from src.lex_tokenizer import tokenize, toText
+from src.winnowing import sha1_hash, kgrams, min_index, fingerprints, hash_list, process_text, compare_fingerprints
 
 class BaseTempFileTest(unittest.TestCase):
     def make_file(self, content, suffix=".py"):

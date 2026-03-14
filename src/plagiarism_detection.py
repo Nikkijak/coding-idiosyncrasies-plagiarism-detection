@@ -2,7 +2,7 @@ import os
 import tkinter as tk
 from tkinter import filedialog, messagebox, simpledialog
 
-from winnowing import compare_fingerprints, process_text
+from .winnowing import compare_fingerprints, process_text
 
 
 CODE_FILE_TYPES = [

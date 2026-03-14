@@ -2,7 +2,7 @@ import os
 import hashlib
 import argparse
 
-from lex_tokenizer import tokenize, toText
+from .lex_tokenizer import tokenize, toText
 
 HASH_HEX_CHARS = 8
 
