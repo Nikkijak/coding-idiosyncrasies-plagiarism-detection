@@ -27,4 +27,3 @@ The current implementation mainly focuses on the **core plagiarism detection pip
 
 ## Author
 **Nikita Jakhete**  
-MSc Computing Science – University College Cork (2024)
