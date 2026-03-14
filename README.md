@@ -10,10 +10,10 @@ https://github.com/oscarkarnalim/sourcecodeplagiarismdataset/issues/3
 Additional sample programs and test cases were also created as part of this project to validate the implementation.
 
 ## Project Structure
-src/ Core implementation (tokenizer, winnowing, detection)
-tests/ Unit tests
-samples/ Example programs used for testing
-docs/ Diagrams and thesis document
+src/ -> Core implementation (tokenizer, winnowing, detection).    
+tests/ -> Unit tests.  
+samples/ -> Example programs used for testing.    
+docs/ -> Diagrams and thesis document.    
 
 ## Installation
 pip install -r requirements.txt
