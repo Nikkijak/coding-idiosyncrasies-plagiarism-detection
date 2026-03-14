@@ -1,6 +1,6 @@
 # Coding Idiosyncrasies Plagiarism Detection
 
-This repository contains a **source code plagiarism detection tool** developed as part of my **MSc Computing Science project (2024)** at **University College Cork**.
+This repository contains a **source code plagiarism detection tool** developed as part of my **MSc Computing Science project (2024)**.
 
 The system detects similarity between programs using **token normalization, k-gram fingerprinting, and the Winnowing algorithm**, allowing it to identify plagiarism even when superficial changes such as variable renaming or formatting differences are present.
 
